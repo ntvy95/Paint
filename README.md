@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-//* PROGRAM TITLE: Paint.
+//* PROGRAM TITLE: Paint.\n
 //* PROGRAM DESCRIPTION: This program is an effort to make a copy of MS Paint.
 //* DEVELOPER: Nguyen Thuy Vy / 13521064.
 //* UNIVERSITY: University of Information Technology.
