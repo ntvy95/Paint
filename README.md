@@ -8,6 +8,9 @@ DEVELOPER: Nguyen Thuy Vy / 13521064.
 UNIVERSITY: University of Information Technology.
 
 PROGRAMMING LANGUAGE: C / C++.
+
+DEMO VIDEO: https://www.youtube.com/watch?v=XTytdfXSbtA
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 I am sharing the souce code of a very-not-good-but-worked project that I have to develop when I took Computer Graphics in my university.
