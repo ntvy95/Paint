@@ -9,7 +9,7 @@ UNIVERSITY: University of Information Technology.
 
 PROGRAMMING LANGUAGE: C / C++.
 
-DEMO VIDEO: https://www.youtube.com/watch?v=XTytdfXSbtA
+DEMO: https://www.youtube.com/watch?v=XTytdfXSbtA
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
